@@ -1,0 +1,14 @@
+C:\Users\j02\Documents\Mariana Vitoria\Lista de atividades 1\QT7\bin\Debug\net8.0\QT7.exe
+C:\Users\j02\Documents\Mariana Vitoria\Lista de atividades 1\QT7\bin\Debug\net8.0\QT7.deps.json
+C:\Users\j02\Documents\Mariana Vitoria\Lista de atividades 1\QT7\bin\Debug\net8.0\QT7.runtimeconfig.json
+C:\Users\j02\Documents\Mariana Vitoria\Lista de atividades 1\QT7\bin\Debug\net8.0\QT7.dll
+C:\Users\j02\Documents\Mariana Vitoria\Lista de atividades 1\QT7\bin\Debug\net8.0\QT7.pdb
+C:\Users\j02\Documents\Mariana Vitoria\Lista de atividades 1\QT7\obj\Debug\net8.0\QT7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j02\Documents\Mariana Vitoria\Lista de atividades 1\QT7\obj\Debug\net8.0\QT7.AssemblyInfoInputs.cache
+C:\Users\j02\Documents\Mariana Vitoria\Lista de atividades 1\QT7\obj\Debug\net8.0\QT7.AssemblyInfo.cs
+C:\Users\j02\Documents\Mariana Vitoria\Lista de atividades 1\QT7\obj\Debug\net8.0\QT7.csproj.CoreCompileInputs.cache
+C:\Users\j02\Documents\Mariana Vitoria\Lista de atividades 1\QT7\obj\Debug\net8.0\QT7.dll
+C:\Users\j02\Documents\Mariana Vitoria\Lista de atividades 1\QT7\obj\Debug\net8.0\refint\QT7.dll
+C:\Users\j02\Documents\Mariana Vitoria\Lista de atividades 1\QT7\obj\Debug\net8.0\QT7.pdb
+C:\Users\j02\Documents\Mariana Vitoria\Lista de atividades 1\QT7\obj\Debug\net8.0\QT7.genruntimeconfig.cache
+C:\Users\j02\Documents\Mariana Vitoria\Lista de atividades 1\QT7\obj\Debug\net8.0\ref\QT7.dll

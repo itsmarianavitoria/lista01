@@ -1,0 +1,14 @@
+C:\Users\j02\Documents\Mariana Vitoria\Lista de atividades 1\QT9\bin\Debug\net8.0\QT9.exe
+C:\Users\j02\Documents\Mariana Vitoria\Lista de atividades 1\QT9\bin\Debug\net8.0\QT9.deps.json
+C:\Users\j02\Documents\Mariana Vitoria\Lista de atividades 1\QT9\bin\Debug\net8.0\QT9.runtimeconfig.json
+C:\Users\j02\Documents\Mariana Vitoria\Lista de atividades 1\QT9\bin\Debug\net8.0\QT9.dll
+C:\Users\j02\Documents\Mariana Vitoria\Lista de atividades 1\QT9\bin\Debug\net8.0\QT9.pdb
+C:\Users\j02\Documents\Mariana Vitoria\Lista de atividades 1\QT9\obj\Debug\net8.0\QT9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j02\Documents\Mariana Vitoria\Lista de atividades 1\QT9\obj\Debug\net8.0\QT9.AssemblyInfoInputs.cache
+C:\Users\j02\Documents\Mariana Vitoria\Lista de atividades 1\QT9\obj\Debug\net8.0\QT9.AssemblyInfo.cs
+C:\Users\j02\Documents\Mariana Vitoria\Lista de atividades 1\QT9\obj\Debug\net8.0\QT9.csproj.CoreCompileInputs.cache
+C:\Users\j02\Documents\Mariana Vitoria\Lista de atividades 1\QT9\obj\Debug\net8.0\QT9.dll
+C:\Users\j02\Documents\Mariana Vitoria\Lista de atividades 1\QT9\obj\Debug\net8.0\refint\QT9.dll
+C:\Users\j02\Documents\Mariana Vitoria\Lista de atividades 1\QT9\obj\Debug\net8.0\QT9.pdb
+C:\Users\j02\Documents\Mariana Vitoria\Lista de atividades 1\QT9\obj\Debug\net8.0\QT9.genruntimeconfig.cache
+C:\Users\j02\Documents\Mariana Vitoria\Lista de atividades 1\QT9\obj\Debug\net8.0\ref\QT9.dll
